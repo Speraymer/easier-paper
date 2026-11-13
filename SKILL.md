@@ -14,6 +14,7 @@ Build a defensible understanding of a paper, not a polished but shallow summary.
 3. Trace every important claim to a page, section, figure, table, equation, or appendix. Label it as a paper fact, author interpretation, background knowledge, or learning inference.
 4. Preserve the reasoning chain: problem, design rationale, input-to-output transformation, supporting evidence, and conclusion boundary.
 5. Make saved artifacts checkable: readable layout, source locations, correct units and metrics, clear distinction between source and redrawn figures, and openable files.
+6. In every explanatory response with content that can be explained visually, provide at least one operable animated model built with Three.js, including the first response and local questions in either reading mode. Deliver the working demonstration in that response; a static image, GIF, code listing, or promise to build it later does not satisfy this requirement. Follow the dynamic mechanism demonstration guidance in [Integrated Capabilities](references/integrated-capabilities.md).
 
 Read [Rigor Protocol](references/rigor-protocol.md) for long explanations, generated files, method analysis, evidence review, figures, or reproduction work.
 
@@ -71,7 +72,7 @@ Choose modules automatically; users do not need to name a module or external ski
 | Code, data, statistics, plotting, or citation verification | Research workbench | Validated computation, figure, or retrieval result |
 | Architecture needs more than text | Editable figure design | Diagram specification and editable-native deliverable where available |
 | Reader cannot identify the obstacle | Read-aloud diagnosis | One small concept at a time and adaptive checks |
-| Static media cannot show a mechanism | Dynamic mechanism demonstration | Minimal controllable animation tied to paper operations |
+| Any part of the current explanation can be shown visually | Dynamic mechanism demonstration | At least one operable Three.js animated model for that response |
 
 Read [Integrated Capabilities](references/integrated-capabilities.md) when selecting or delivering a module.
 

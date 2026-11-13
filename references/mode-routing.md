@@ -16,6 +16,6 @@ When only a paper is uploaded, begin with a medium-depth map: problem, gap, inpu
 - **Local breakdown:** for figures, cover question, comparison, axes/symbols, trend, supported and unsupported conclusion; for methods, cover inputs, processing, outputs, rationale, and assumptions. Start local; do not convert the request into a paper-wide analysis without a specific information gap or user request.
 - **Evidence review and connection:** separate direct evidence, author interpretation, and viable alternatives. Explain each paper's question and evidence strength before comparing papers.
 
-End an individual turn at a natural boundary, identifying the next uncovered unit if the whole-paper reading is still in progress. Call the reading complete only after its substantive method, evidence, conditions, and limitations have been explained. Create saved learning artifacts only when requested.
+End an individual turn at a natural boundary, identifying the next uncovered unit if the whole-paper reading is still in progress. Call the reading complete only after its substantive method, evidence, conditions, and limitations have been explained. Apply the per-response Three.js demonstration requirement in SKILL.md to every explanatory route. Create other saved learning artifacts only when requested; the required demonstration may be delivered as a linked HTML file without a separate request.
 
 <!-- 中文注释：整篇阅读从主线进入全部有实质作用的机制、条件与证据，分轮讲完；深度模式增加公式和系统分析，不默认讲代码。局部问题仍先读目标、图注和直接相关段落，只补理解所需前提。 -->

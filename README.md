@@ -7,7 +7,8 @@ A Codex skill for readers who need a reliable, beginner-friendly path through re
 - Builds a structured reading map of the research question, method path, evidence, and limitations.
 - Explains concepts, equations, figures, and mechanisms from intuition to paper-specific meaning.
 - Reviews experimental evidence and the boundary of claimed conclusions.
-- Produces learning notes, concept diagrams, editable figure specifications, and dynamic mechanism demonstrations when they materially improve understanding.
+- Provides at least one operable Three.js animated model in every explanation with visually explainable content, in both reading modes, including the first response and local questions. Each demonstration includes playback and a meaningful step, parameter, or component control, delivered inline or as a linked HTML file.
+- Produces learning notes, concept diagrams, and editable figure specifications when requested.
 - Uses concrete toy scenes for animations; equations stay in the accompanying explanation, while the scene shows only a few clearly marked teaching values.
 - Offers Deep mode for inputs, outputs, representations, equations, assumptions, training/inference, and experimental evidence without defaulting to code walkthroughs.
 
