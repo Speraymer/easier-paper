@@ -4,7 +4,7 @@ These modules belong to `paper-learning-companion`; they do not require another 
 
 ## Reading map
 
-For a complex paper or deep-reading request, build a provisional map from the abstract, introduction, overview figure, conclusion, and key experiments, then correct it with methods, tables, appendices, and definitions. Cover prior limitation, method path, contribution-driving mechanism, experiment map, and synthesis. For a requested saved artifact, prefer one self-contained HTML or PDF plus a readable Markdown audit trail.
+For a complex paper or deep-reading request, build a provisional map from the abstract, introduction, overview figure, conclusion, and key experiments, then correct it with methods, tables, appendices, and definitions. Use the map to teach the main line first, then cover all substantive mechanisms, secondary components, conditions, experiment paths, and limitations before synthesis. For a requested saved artifact, prefer one self-contained HTML or PDF plus a readable Markdown audit trail.
 
 ## Deep explanation and academic transfer
 
